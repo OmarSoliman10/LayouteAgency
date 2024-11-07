@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/LayouteAgency/static/css/main.bcf1f9ea.css",
+    "main.js": "/LayouteAgency/static/js/main.062499a3.js",
+    "static/media/fa-solid-900.ttf": "/LayouteAgency/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/4737427.jpg": "/LayouteAgency/static/media/4737427.d005de234180ed82937d.jpg",
+    "static/media/mob.png": "/LayouteAgency/static/media/mob.afe48acea97ae719f153.png",
+    "static/media/fa-brands-400.ttf": "/LayouteAgency/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/motion.png": "/LayouteAgency/static/media/motion.1398ce9a9d4210820f6a.png",
+    "static/media/seo.png": "/LayouteAgency/static/media/seo.e2727f0db44c38c7f96e.png",
+    "static/media/web.png": "/LayouteAgency/static/media/web.95466c32b0fbb1942737.png",
+    "static/media/fa-solid-900.woff2": "/LayouteAgency/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/graphic.png": "/LayouteAgency/static/media/graphic.c4dcbae649061f70da25.png",
+    "static/media/fa-brands-400.woff2": "/LayouteAgency/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/target.png": "/LayouteAgency/static/media/target.a2fca94a3aa0bf55f4aa.png",
+    "static/media/hero-bg-2.jpg": "/LayouteAgency/static/media/hero-bg-2.cf4020a52530d84542a8.jpg",
+    "static/media/fa-regular-400.ttf": "/LayouteAgency/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/Asset 1.png": "/LayouteAgency/static/media/Asset 1.7a7a61ed3235301b0a8d.png",
+    "static/media/hero-img.png": "/LayouteAgency/static/media/hero-img.9161fb08f1015f2a5db0.png",
+    "static/media/fa-regular-400.woff2": "/LayouteAgency/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/LOGO.png": "/LayouteAgency/static/media/LOGO.98e9062db280e1d4d1ff.png",
+    "static/media/fa-v4compatibility.ttf": "/LayouteAgency/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/LayouteAgency/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/LayouteAgency/index.html",
+    "main.bcf1f9ea.css.map": "/LayouteAgency/static/css/main.bcf1f9ea.css.map",
+    "main.062499a3.js.map": "/LayouteAgency/static/js/main.062499a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcf1f9ea.css",
+    "static/js/main.062499a3.js"
+  ]
+}
